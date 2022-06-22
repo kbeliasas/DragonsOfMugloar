@@ -5,4 +5,10 @@ This Spring boot application is used to play Dragons of Mugloar game and get rel
 ## Requirements
 
 JAVA version 17 or above
+
 Maven version 3.8.1 or above
+
+## Running Application
+
+To run application run this command:
+`mvn spring-boot:run`
